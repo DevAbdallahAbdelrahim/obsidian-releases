@@ -5118,5 +5118,11 @@
     "repo": "crluehmann/report-writer",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Atom One Theme",
+    "repo": "DevAbdallahAbdelrahim/atom-one-theme",
+    "screenshot": "assets/dark-preview.png",
+    "modes": ["dark", "light"]
   }
 ]
