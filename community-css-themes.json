@@ -5129,7 +5129,7 @@
   {
     "name": "Atom One Pro",
     "author": "Dev_AbdallahAbdelrahim",
-    "repo": "devabdallahabdelrahim/atom-one-pro",
+    "repo": "DevAbdallahAbdelrahim/atom-one-pro-obsidian",
     "screenshot": "assets/dark theme main preview screenshot.png",
     "modes": ["dark", "light"]
   },
