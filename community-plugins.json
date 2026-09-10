@@ -52456,5 +52456,12 @@
     "author": "Zackary Burns",
     "description": "Excalidraw Mirror and Guidlines addition for easy mirrored drawing - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zoroaster1x/Excalidraw-Mirror-Guidelines-Obsidian-Plugin"
+  },
+  {
+    "id": "vertical-tabs-pro",
+    "name": "Vertical Tabs Pro",
+    "author": "AbdallahAbdelrahim",
+    "description": "Enterprise-grade vertical tabs manager with Smart Nested Grouping, Hibernation Engine, and zero-latency Virtual Rendering.",
+    "repo": "DevAbdallahAbdelrahim/vertical-tabs-pro-obsidian"
   }
 ]
