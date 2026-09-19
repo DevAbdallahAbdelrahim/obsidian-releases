@@ -54703,5 +54703,12 @@
     "author": "Elliott Park",
     "description": "Review what your AI agent wrote to your LLM Wiki, like a pull request. See each change as a diff, approve or revert it, and catch broken links, unsourced pages and unprocessed sources. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "elliott-json-park/obsidian-llm-wiki-review"
+  },
+  {
+    "id": "vtabs-engine",
+    "name": "VTabs Engine",
+    "author": "AbdallahAbdelrahim",
+    "description": "A lightweight, modular vertical tab hierarchy manager with workspace split capabilities.",
+    "repo": "DevAbdallahAbdelrahim/obsidian-vtabs-engine"
   }
 ]
